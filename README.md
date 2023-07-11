@@ -6,9 +6,9 @@ Welcome to the official repository for the DataFestAfrica 2023 Text classifcatio
 
 The repository is organized into the following sections:
 
-1. **datasets**: This folder contains various datasets that are relevant to the session. One of the datasets has been carefully curated to provide you with real-world examples and practical insights while the other is an uncleaned raw dataset from Twitter during the 2022 Kenya general elections. This Kenya dataset is the raw uncleaned version a portion of what was used in extracting insights for the Byte Bullies Report by Pollicy.
+1. **Datasets**: This folder contains various datasets that are relevant to the session. One of the datasets has been carefully curated to provide you with real-world examples and practical insights while the other is an uncleaned raw dataset from Twitter during the 2022 Kenya general elections. This Kenya dataset is the raw uncleaned version a portion of what was used in extracting insights for the Byte Bullies Report by Pollicy.
 
-2. **Python Files**: In this section, you will find a collection of Python files that accompany the session. These files can be used to follow along with the presentations, demos, and workshops.
+2. **Python Files**: In this section, you will find a collection of Python files that accompany the session. These files can be used to follow along with the demos. We will explore both a simplified approach to text representation and a more complete option requiring running more advanced models such as popular BERT based models.
 
 3. **Presentation Slides**: The presentation slides from the session will be made available here. You can refer to them to recap the topics covered or explore further on your own.
 
@@ -31,10 +31,6 @@ We welcome contributions to this repository! If you have any additional material
 ## Issues and Feedback
 
 If you encounter any issues or have suggestions for improving the conference materials, please don't hesitate to open an issue on this repository. We value your feedback and are committed to addressing any concerns to ensure the best experience for all participants.
-
-## License
-
-The contents of this repository are provided under the [MIT License](LICENSE). Please review the license file for more details on the permissions and limitations it grants.
 
 ## Contact
 
